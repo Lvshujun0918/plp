@@ -60,7 +60,7 @@ export default {
   background: rgba(0, 0, 0, 0.3);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
-  padding: 10px 20px;
+  padding: 10px 10px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.1);
 }
 

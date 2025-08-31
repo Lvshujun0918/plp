@@ -128,8 +128,7 @@ export default {
   display: flex;
   flex-direction: column;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  padding-top: 52px; /* Header 高度 */
-  padding-bottom: 50px; /* Footer 高度 */
+  padding-top: 85px; /* Header 高度 */
 }
 
 .introduction-main {
@@ -150,7 +149,7 @@ export default {
   width: 100%;
   max-width: 800px;
   margin-top: 20px;
-  max-height: calc(100vh - 100px);
+  max-height: calc(100vh - 210px);
   overflow-y: scroll;
   margin: 0 auto;
 }
